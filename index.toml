@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "LICENSE"
+hash = "6b0382b16279f26ff69014300541967a356a666eb0b91b422f6862f6b7dad17e"
+
+[[files]]
 file = "mods/3dskinlayers.pw.toml"
 hash = "aab6eee965312f66601aec93606bde3b14d842140190b16b096238fed2583955"
 metafile = true
@@ -251,8 +255,8 @@ hash = "00322f0c2a1ed0b9e28f823b3c7f5b40d3ede06db32f3d4aa4d1391a994c306a"
 metafile = true
 
 [[files]]
-file = "mods/presence-footsteps-forge.pw.toml"
-hash = "81006dc530e5aaeb55c00b6891f73cd9e2fc1f3f3b84819df3a00c4aae151c2d"
+file = "mods/presence-footsteps.pw.toml"
+hash = "35f2b7d27291e3a313c986137b70b7675bc32b3d0097e0940c7e23b0cf62b92e"
 metafile = true
 
 [[files]]
@@ -288,6 +292,11 @@ metafile = true
 [[files]]
 file = "mods/the-twilight-forest.pw.toml"
 hash = "d1f859de9867b7433305aef1631aa22a436a4c3924474a21c0a22ab5f2093c04"
+metafile = true
+
+[[files]]
+file = "mods/toadlib.pw.toml"
+hash = "d67aeab09214e109f63d87c4e00e7718c2403c1d73e1fc9238cc005479a5cc5b"
 metafile = true
 
 [[files]]
