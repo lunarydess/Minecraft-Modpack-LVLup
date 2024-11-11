@@ -26,7 +26,7 @@ hash = "aab6eee965312f66601aec93606bde3b14d842140190b16b096238fed2583955"
 metafile = true
 
 [[files]]
-file = "mods/GlitchCore-forge-1.20.1-0.0.1.1.jar"
+file = "mods/GlitchCore-forge-1.20.1-0.0.1.1-CUSTOM.jar"
 hash = "5947e591a52003d68120160438e8b071b480a1daa4cf51eb6e7912f1f1df55cb"
 
 [[files]]
@@ -34,7 +34,7 @@ file = "mods/PresenceFootsteps-1.20.1-1.9.1-beta.1-CUSTOM.jar"
 hash = "e7d8cbcf85e58c72a9d5a58b7fc13d3a07937381afa05961c402de40d7ca54d4"
 
 [[files]]
-file = "mods/SereneSeasons-forge-1.20.1-9.1.0.0.jar"
+file = "mods/SereneSeasons-forge-1.20.1-9.1.0.0-CUSTOM.jar"
 hash = "f582570e21d03d62d7678a532e6899ef84d46426fc64ff8505526069800f5396"
 
 [[files]]
