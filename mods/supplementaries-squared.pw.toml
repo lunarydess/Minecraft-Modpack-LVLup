@@ -1,0 +1,13 @@
+name = "Supplementaries Squared"
+filename = "suppsquared-1.20-1.1.16.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/dCCkNFwE/versions/epDSxpGy/suppsquared-1.20-1.1.16.jar"
+hash-format = "sha1"
+hash = "c9583e12360d18869f280f6cb1ad8a9d04c8bfdc"
+
+[update]
+[update.modrinth]
+mod-id = "dCCkNFwE"
+version = "epDSxpGy"
