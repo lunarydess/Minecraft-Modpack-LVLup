@@ -10,6 +10,10 @@ hash = "aab6eee965312f66601aec93606bde3b14d842140190b16b096238fed2583955"
 metafile = true
 
 [[files]]
+file = "mods/PresenceFootsteps-1.20.1-1.9.1-beta.1-CUSTOM.jar"
+hash = "e7d8cbcf85e58c72a9d5a58b7fc13d3a07937381afa05961c402de40d7ca54d4"
+
+[[files]]
 file = "mods/almanac.pw.toml"
 hash = "86f7c7598f05a1d61c20031673fe83c8fd5d0f2f25214fe7ca6eca6f7b70e114"
 metafile = true
@@ -337,11 +341,6 @@ metafile = true
 [[files]]
 file = "mods/polytone.pw.toml"
 hash = "521be56c89bdbcb7492f5cbd513342fe9bbea3b6bbee50832109d25deed14a5d"
-metafile = true
-
-[[files]]
-file = "mods/presence-footsteps.pw.toml"
-hash = "35f2b7d27291e3a313c986137b70b7675bc32b3d0097e0940c7e23b0cf62b92e"
 metafile = true
 
 [[files]]
