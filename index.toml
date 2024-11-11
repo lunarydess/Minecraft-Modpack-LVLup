@@ -682,16 +682,6 @@ hash = "25464d5a50d1e06b104d1d4a08a3002a24441a620ac5adecbd7476d031b0791d"
 metafile = true
 
 [[files]]
-file = "mods/kingdom-keys-2.pw.toml"
-hash = "2a0b58e9808fd1cb710e7723f210dd63543e2650ae5c33a9b959430e4d0c4310"
-metafile = true
-
-[[files]]
-file = "mods/kingdom-keys-remind.pw.toml"
-hash = "9420d8917975c3d8bfcef0d4a54079314ca09df43c651f2bd6cdb99af3e349f2"
-metafile = true
-
-[[files]]
 file = "mods/kleeslabs.pw.toml"
 hash = "b3319815b58da5ea01df59051daed685fe6da3f839a4a2c7b868ab59cadc1473"
 metafile = true
