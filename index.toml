@@ -153,11 +153,6 @@ hash = "9ac1ca724e03e33bc78b829ee6299d3f02aadb21c5233f301e157a0a958deb4b"
 metafile = true
 
 [[files]]
-file = "mods/better-combat.pw.toml"
-hash = "ab86c301b50308e58742faa6712c7dc034c0a109a0d4d1d9c21953a79aac3eb8"
-metafile = true
-
-[[files]]
 file = "mods/better-keyblade-combat.pw.toml"
 hash = "d60098deb96fe68be62e2696dfacc7851625e9723318265b6212cde5f7118524"
 metafile = true
@@ -176,6 +171,10 @@ metafile = true
 file = "mods/bettercombat-extension.pw.toml"
 hash = "1ddf15c2f6433043e4a8e6b454afb94744c98f0f7b2ef7ae3517f6248a99fedc"
 metafile = true
+
+[[files]]
+file = "mods/bettercombat-forge-1.8.6+1.20.1-CUSTOM.jar"
+hash = "ec043176a9c14d77d424f6375abfc33ecd2988687d399be27ccd1e987c138cc5"
 
 [[files]]
 file = "mods/bettersmithingtable.pw.toml"
@@ -1049,7 +1048,7 @@ metafile = true
 
 [[files]]
 file = "mods/supermartijn642s-config-lib.pw.toml"
-hash = "1c767afec23f637a05961b20f3a6b611945d652507bde4e5770eaa330406c2a5"
+hash = "fb0ec93bfbee412229b63a9154abc992ee7e274a84fe569e077f250e6c77abbd"
 metafile = true
 
 [[files]]
