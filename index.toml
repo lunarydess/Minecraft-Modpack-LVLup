@@ -539,6 +539,11 @@ hash = "bd294726639dc8e4be6ea5c8c69ee6691a5d9554246b6ee5f5c23dc21d4f4b52"
 metafile = true
 
 [[files]]
+file = "mods/the-man-from-the-fog.pw.toml"
+hash = "941eac23ad7aa796926497f66d51fcf398803d972eeba8343c632feb5b03b6e2"
+metafile = true
+
+[[files]]
 file = "mods/the-twilight-forest.pw.toml"
 hash = "d1f859de9867b7433305aef1631aa22a436a4c3924474a21c0a22ab5f2093c04"
 metafile = true
