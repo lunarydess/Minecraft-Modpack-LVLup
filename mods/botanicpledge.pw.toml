@@ -1,0 +1,13 @@
+name = "BotanicPledge"
+filename = "botanicpledge_1.20.1_0.6.0.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/Kw2Q2hxP/versions/ZqNuSDDM/botanicpledge_1.20.1_0.6.0.2.jar"
+hash-format = "sha1"
+hash = "aefb0eb0d10aa84d5c37d245c74bde0267a12934"
+
+[update]
+[update.modrinth]
+mod-id = "Kw2Q2hxP"
+version = "ZqNuSDDM"
