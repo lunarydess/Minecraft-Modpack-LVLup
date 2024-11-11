@@ -5,6 +5,22 @@ file = "LICENSE"
 hash = "6b0382b16279f26ff69014300541967a356a666eb0b91b422f6862f6b7dad17e"
 
 [[files]]
+file = "config/ModernUI/bootstrap.properties"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "config/ModernUI/client.toml"
+hash = "96eb268821c7162e18c4c59b7bd74e03417ad97c5bed8685bdf043823ca0c6b8"
+
+[[files]]
+file = "config/ModernUI/common.toml"
+hash = "3f3423b73ede42901495373c756f0b15e0e3f56c369873219176de1d621724fa"
+
+[[files]]
+file = "config/ModernUI/text.toml"
+hash = "7d16f59e14492b4c64f1debbfdc346175855ad05ca33955f7ca78093ab30e026"
+
+[[files]]
 file = "mods/3dskinlayers.pw.toml"
 hash = "aab6eee965312f66601aec93606bde3b14d842140190b16b096238fed2583955"
 metafile = true
@@ -26,6 +42,16 @@ metafile = true
 [[files]]
 file = "mods/alternate-current.pw.toml"
 hash = "64a9d35d95525940611e536b2d16ee73dec0c213832195b2f7f8f925e077d774"
+metafile = true
+
+[[files]]
+file = "mods/amendments.pw.toml"
+hash = "e548fa51bb741d279d0e4e975aca6cc54579dfded7566e24dd1abcd1f06469ea"
+metafile = true
+
+[[files]]
+file = "mods/animated-doors.pw.toml"
+hash = "a8ce03e6f782db68a453fa0d7e8d8ef3d30d4d184fa0ce030843709ea43d573f"
 metafile = true
 
 [[files]]
@@ -514,6 +540,11 @@ hash = "23007c9b06315a062ca923911d9fd89066946f6f52df31c06548fa8bc241b55c"
 metafile = true
 
 [[files]]
+file = "mods/modern-ui.pw.toml"
+hash = "d553097ab7e7134b576772a024bb3ac9df66bf6aee990fc186471fef8f7af5cd"
+metafile = true
+
+[[files]]
 file = "mods/modernfix.pw.toml"
 hash = "886f370aa49b61b6ec0151acaf1d4450834f82ea86241dc11443dbfe08e1dba9"
 metafile = true
@@ -786,4 +817,13 @@ metafile = true
 [[files]]
 file = "mods/zume.pw.toml"
 hash = "fb31fc2606b2dc03d87550960ffd593c09d412128abd366248c2af3cec548467"
+metafile = true
+
+[[files]]
+file = "resourcepacks/Minecraft.otf"
+hash = "c5bcd562c9151e23deb35ce8fb069bf3f8d22e1b71f0e2b70e253ee3925c2174"
+
+[[files]]
+file = "resourcepacks/animated-door.pw.toml"
+hash = "625227774f94a26f6ffd518a0d610a800e230852572712a013bbfa78856237e1"
 metafile = true
