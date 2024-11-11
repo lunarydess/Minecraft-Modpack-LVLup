@@ -1,0 +1,13 @@
+name = "Pick Up Me"
+filename = "pickup-me-1.0.3.1-1.20.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/rFUjVRqJ/versions/n3tv0IPu/pickup-me-1.0.3.1-1.20.jar"
+hash-format = "sha1"
+hash = "3cc7673115cd070a267bf1443b4a3dedab460d21"
+
+[update]
+[update.modrinth]
+mod-id = "rFUjVRqJ"
+version = "n3tv0IPu"

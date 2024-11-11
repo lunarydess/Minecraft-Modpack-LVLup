@@ -14,6 +14,11 @@ file = "mods/PresenceFootsteps-1.20.1-1.9.1-beta.1-CUSTOM.jar"
 hash = "e7d8cbcf85e58c72a9d5a58b7fc13d3a07937381afa05961c402de40d7ca54d4"
 
 [[files]]
+file = "mods/ai-improvements.pw.toml"
+hash = "d45d8ba9633fe8d819e6a8822b5f25807a52a5f29a82e87d31ce8920fd080500"
+metafile = true
+
+[[files]]
 file = "mods/almanac.pw.toml"
 hash = "86f7c7598f05a1d61c20031673fe83c8fd5d0f2f25214fe7ca6eca6f7b70e114"
 metafile = true
@@ -59,6 +64,11 @@ hash = "7bdc3d711b404db28144992cba4c9da51f0fc1bff483e9ef7ba9a28e256677fa"
 metafile = true
 
 [[files]]
+file = "mods/canary.pw.toml"
+hash = "a388f4afe890e268a739cf598b68859ca3d86506a3fa3e46c17e4aa63debd309"
+metafile = true
+
+[[files]]
 file = "mods/capes.pw.toml"
 hash = "4c712d7ad6d2ddb130b845c3b2c660be7cb7795db21be00b130443730719305e"
 metafile = true
@@ -99,6 +109,11 @@ hash = "fb8e035187556a9406507176782dd251769d8cdf14e9712b508bcc47ff6904d9"
 metafile = true
 
 [[files]]
+file = "mods/collective.pw.toml"
+hash = "007aa1d77ed4acb655c583b31a1acccc8d8b4dfbf66ecd81c80dc073798686c4"
+metafile = true
+
+[[files]]
 file = "mods/connector-extras.pw.toml"
 hash = "ca80a80a9a068c01ad3b2d8d484a943897b6e87325ca70e5dea2d59c2eba9160"
 metafile = true
@@ -124,6 +139,11 @@ hash = "3075cf68ef4f6aee7a4721a8f7617d79fee5648ce731290cfbf6aaab18c4af37"
 metafile = true
 
 [[files]]
+file = "mods/cull-leaves.pw.toml"
+hash = "1dd4a5385d726491647f47cd42760b0a322a8d3d82728bbbe3a45efde9b4e161"
+metafile = true
+
+[[files]]
 file = "mods/cupboard.pw.toml"
 hash = "2eb26b157c4159bfeff6a00147afa35284397d558f84b55367d1a41064d7456a"
 metafile = true
@@ -136,6 +156,11 @@ metafile = true
 [[files]]
 file = "mods/dimensional-threads.pw.toml"
 hash = "b8c4528cc3185001451be70517d012541d300f9b2ad584a9f18a3070207079f6"
+metafile = true
+
+[[files]]
+file = "mods/dismount-entity.pw.toml"
+hash = "f5863257de14470c7f3aada964426a6549147e8a6a73b5d96183e10021def388"
 metafile = true
 
 [[files]]
@@ -289,6 +314,11 @@ hash = "82ffc26ad624cdd846cbbeb99ed40ef44229ec7006a7ae7e8caa8df6409c20db"
 metafile = true
 
 [[files]]
+file = "mods/leaves-be-gone.pw.toml"
+hash = "79f696c09f378d5a2127ad7ddcda4c03cb2fe71622860c99addef9aa29c91b74"
+metafile = true
+
+[[files]]
 file = "mods/lets-do-emi-compat.pw.toml"
 hash = "f1493dc002c70d0978e12e461a9ac309274693e0f6e191eccaf6cdeb1f7b85f7"
 metafile = true
@@ -299,6 +329,16 @@ hash = "6fae91e98ead05c36e6278fd7e9e6d118c95f9639e5d330ac18b730458f433a4"
 metafile = true
 
 [[files]]
+file = "mods/log-begone.pw.toml"
+hash = "a1f7012aba7ff27b63433bcef8b7027a62ae33998a442a42e6c44ae5bbb7eebe"
+metafile = true
+
+[[files]]
+file = "mods/midnightlib.pw.toml"
+hash = "8ccb54bebc5af2470ee2fdaf0a719efd00548b442f6641ed88f7b031207dc4cd"
+metafile = true
+
+[[files]]
 file = "mods/modelfix.pw.toml"
 hash = "23007c9b06315a062ca923911d9fd89066946f6f52df31c06548fa8bc241b55c"
 metafile = true
@@ -306,6 +346,11 @@ metafile = true
 [[files]]
 file = "mods/modernfix.pw.toml"
 hash = "886f370aa49b61b6ec0151acaf1d4450834f82ea86241dc11443dbfe08e1dba9"
+metafile = true
+
+[[files]]
+file = "mods/more-mob-variants.pw.toml"
+hash = "4593146a6bb3444a60ad4078033d51777bd5353e3c18b7b5b9886c281e7dabaf"
 metafile = true
 
 [[files]]
@@ -334,6 +379,16 @@ hash = "ae1d4ae12713ca95bb4260a3c0e32f2df2c702e39d5ea514311d68ee4f49b7ad"
 metafile = true
 
 [[files]]
+file = "mods/pick-up-notifier.pw.toml"
+hash = "3e801878ddaf67fddccf599fe9c1e23e3df39f633e90d68c76a49905d55c2925"
+metafile = true
+
+[[files]]
+file = "mods/pickup-me.pw.toml"
+hash = "88fc000d90005e32d25cf59ed47564dcba33d5fe5ee2fbcafe0b326b42930f14"
+metafile = true
+
+[[files]]
 file = "mods/polymorph.pw.toml"
 hash = "00322f0c2a1ed0b9e28f823b3c7f5b40d3ede06db32f3d4aa4d1391a994c306a"
 metafile = true
@@ -341,6 +396,11 @@ metafile = true
 [[files]]
 file = "mods/polytone.pw.toml"
 hash = "521be56c89bdbcb7492f5cbd513342fe9bbea3b6bbee50832109d25deed14a5d"
+metafile = true
+
+[[files]]
+file = "mods/puzzles-lib.pw.toml"
+hash = "09deeddd9aafe7378ef20894b86145cb86f93c1f114ec72f4456ec5f0310f598"
 metafile = true
 
 [[files]]
@@ -354,6 +414,11 @@ hash = "2bf1f46465f3a9650a62eb30c0608a566c1ad56e256bdfa378d5fca0e6245f42"
 metafile = true
 
 [[files]]
+file = "mods/rightclickharvest.pw.toml"
+hash = "bdb82e60106867e222b060ecec3df3cb06b95e4de34bf61f7109f07dd20a1191"
+metafile = true
+
+[[files]]
 file = "mods/rubidium-extra.pw.toml"
 hash = "f28e1481c14143758e65c2ae472f644793228ef91f5fbc041909b4c25c3525c0"
 metafile = true
@@ -361,6 +426,11 @@ metafile = true
 [[files]]
 file = "mods/searchables.pw.toml"
 hash = "35905f57cdb21a2aaa26345f2fabe3137ee2db6ee3bb2149cea206611b11ef69"
+metafile = true
+
+[[files]]
+file = "mods/servercore.pw.toml"
+hash = "19fa7bbbebc37d8db487a63d79e31ad23c70a70b2c18253301cafe36f506d512"
 metafile = true
 
 [[files]]
@@ -386,6 +456,11 @@ metafile = true
 [[files]]
 file = "mods/starlight-forge.pw.toml"
 hash = "f343ca4469e393d4055137a1dc228441a80be2a755d634001e037837dd7a56b6"
+metafile = true
+
+[[files]]
+file = "mods/stoneworks.pw.toml"
+hash = "2ade5de0316cdd378dd3543244d19bee9c84976863e8819f2920f3116843b31d"
 metafile = true
 
 [[files]]
