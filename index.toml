@@ -38,6 +38,21 @@ file = "mods/SereneSeasons-forge-1.20.1-9.1.0.0-CUSTOM.jar"
 hash = "f582570e21d03d62d7678a532e6899ef84d46426fc64ff8505526069800f5396"
 
 [[files]]
+file = "mods/accessories-cc-layer.pw.toml"
+hash = "94b1da7c16790d9e99460fd8da09482741104dd55b2fade31d1ff01245cef494"
+metafile = true
+
+[[files]]
+file = "mods/accessories-tc-layer.pw.toml"
+hash = "856c61ddccf4a4937eaac7f355e126a1ad6a7a08206198578146e24048450585"
+metafile = true
+
+[[files]]
+file = "mods/accessories.pw.toml"
+hash = "a5d93cbfe86f018250560cd7160c76daf86bda8c0ac508c0d9db71e38b22361a"
+metafile = true
+
+[[files]]
 file = "mods/aeroblender.pw.toml"
 hash = "5ecef38011903ef9f4407db64fc55601f4290b49b5cc3402e9f48c4086eee427"
 metafile = true
