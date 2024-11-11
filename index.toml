@@ -26,8 +26,16 @@ hash = "aab6eee965312f66601aec93606bde3b14d842140190b16b096238fed2583955"
 metafile = true
 
 [[files]]
+file = "mods/GlitchCore-forge-1.20.1-0.0.1.1.jar"
+hash = "5947e591a52003d68120160438e8b071b480a1daa4cf51eb6e7912f1f1df55cb"
+
+[[files]]
 file = "mods/PresenceFootsteps-1.20.1-1.9.1-beta.1-CUSTOM.jar"
 hash = "e7d8cbcf85e58c72a9d5a58b7fc13d3a07937381afa05961c402de40d7ca54d4"
+
+[[files]]
+file = "mods/SereneSeasons-forge-1.20.1-9.1.0.0.jar"
+hash = "f582570e21d03d62d7678a532e6899ef84d46426fc64ff8505526069800f5396"
 
 [[files]]
 file = "mods/ai-improvements.pw.toml"
@@ -137,11 +145,6 @@ metafile = true
 [[files]]
 file = "mods/botania.pw.toml"
 hash = "ea110e16f81749a58d3fee27b04c0d5426754e26c578057c272d35b07f270d42"
-metafile = true
-
-[[files]]
-file = "mods/botanicpledge.pw.toml"
-hash = "0785676b6fd48d24aa676b2e84c8310a601a03aea232a8b92e0300510af45d0f"
 metafile = true
 
 [[files]]
@@ -462,11 +465,6 @@ metafile = true
 [[files]]
 file = "mods/geckolib.pw.toml"
 hash = "842114b0822d9c2b8b3f474afa55bb973687e8c779aa1cf83548d6ed49b348cd"
-metafile = true
-
-[[files]]
-file = "mods/glitchcore.pw.toml"
-hash = "91e0af4b9989dd9a706d43e32ad498184d9400646f89362877bae96c207b7b70"
 metafile = true
 
 [[files]]
@@ -802,11 +800,6 @@ metafile = true
 [[files]]
 file = "mods/searchables.pw.toml"
 hash = "35905f57cdb21a2aaa26345f2fabe3137ee2db6ee3bb2149cea206611b11ef69"
-metafile = true
-
-[[files]]
-file = "mods/serene-seasons.pw.toml"
-hash = "417e2e137ad9e5e92bd406636fed230dc7583f3b1f8d1652d190886baccfb440"
 metafile = true
 
 [[files]]
