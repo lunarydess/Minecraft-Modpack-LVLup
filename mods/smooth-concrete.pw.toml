@@ -1,0 +1,13 @@
+name = "Smooth Concrete"
+filename = "smoothconcrete-1.5-1.20.1.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/v9H3gNUu/versions/vjjhRMaK/smoothconcrete-1.5-1.20.1.jar"
+hash-format = "sha1"
+hash = "0df90cb0836cda3e73809a05a8410ce8328bf324"
+
+[update]
+[update.modrinth]
+mod-id = "v9H3gNUu"
+version = "vjjhRMaK"
