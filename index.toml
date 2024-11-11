@@ -109,6 +109,11 @@ hash = "5fe1f778e66001230e37dba27caf42a5a5170b9030a09c17c88c2198438695e6"
 metafile = true
 
 [[files]]
+file = "mods/citadel.pw.toml"
+hash = "82de5845ba726131d003e6111e5686e92c36746753d255b117c77628f040846a"
+metafile = true
+
+[[files]]
 file = "mods/cloth-config.pw.toml"
 hash = "5ac32407263c973bebc5aee61fe000d29d9879020fafb6631581396b64e55dfe"
 metafile = true
@@ -141,6 +146,16 @@ metafile = true
 [[files]]
 file = "mods/copycats.pw.toml"
 hash = "3b6dc6e75bb8832b02aec2d6368f6f4da1be234800ba8702eaabf7989d61b2c4"
+metafile = true
+
+[[files]]
+file = "mods/create-enchantment-industry.pw.toml"
+hash = "80061143ef327fe4611e10a6c2bce219be4fb893260106a321c6628e151a57ec"
+metafile = true
+
+[[files]]
+file = "mods/create-jetpack.pw.toml"
+hash = "8ffecc7be16893d2fcac985262052689bc3c5b1bb9bf37e69eaf4a321b6e90fa"
 metafile = true
 
 [[files]]
@@ -194,6 +209,11 @@ hash = "e883a8c887d581272fa7ce43d12e199aa297b68771c2ada53cfd462e1503f7da"
 metafile = true
 
 [[files]]
+file = "mods/dynamic-trim.pw.toml"
+hash = "e4abe59c5de3f18fabd36547df36e6d0c91a76db64f006f75b97c5399451b844"
+metafile = true
+
+[[files]]
 file = "mods/dynamiccrosshair.pw.toml"
 hash = "7649eb945d320486c8862197130ac0d5052254fe791d13fec0b6aaacf56381e2"
 metafile = true
@@ -211,6 +231,11 @@ metafile = true
 [[files]]
 file = "mods/ebe-forge.pw.toml"
 hash = "d020231a7c024611af78feaa692f3ddfe52c151e74ba01f0d2c8e74b7163e960"
+metafile = true
+
+[[files]]
+file = "mods/elytra-physics.pw.toml"
+hash = "abe1b9b65fbcba98cc355b36929eac53a41dc0013504a8e446c7c6688c895057"
 metafile = true
 
 [[files]]
@@ -339,6 +364,11 @@ hash = "ee8e026f46f06f68fa61abfd0e50b195c3348c8ecbbcac8eeb8fc7a05c1219ba"
 metafile = true
 
 [[files]]
+file = "mods/ice-and-fire-dragons.pw.toml"
+hash = "2701b4c095f5776bee71a462a7ae1b54673bbaf1c09217033db6cec6c4a28b36"
+metafile = true
+
+[[files]]
 file = "mods/immediatelyfast.pw.toml"
 hash = "71ad723c7dd152a74416400380a99102e4f85d76ddd983cd22fac9f34173bcfe"
 metafile = true
@@ -356,6 +386,11 @@ metafile = true
 [[files]]
 file = "mods/jade.pw.toml"
 hash = "24d38ab780ec22edb2c1a80f4c2c06a5e9dd5f7c275a0fd6c2541793535d7978"
+metafile = true
+
+[[files]]
+file = "mods/jump-over-fences.pw.toml"
+hash = "95998d6df3425eed80b92603c717f4ca5d40b4a0b54816cc0a9bdbd1f3b93deb"
 metafile = true
 
 [[files]]
@@ -394,8 +429,78 @@ hash = "a1f7012aba7ff27b63433bcef8b7027a62ae33998a442a42e6c44ae5bbb7eebe"
 metafile = true
 
 [[files]]
+file = "mods/macaws-bridges.pw.toml"
+hash = "eda00658aae72ce58c839caade7a081cb57c7194ffea8d8bc73a57303b2e94ef"
+metafile = true
+
+[[files]]
+file = "mods/macaws-doors.pw.toml"
+hash = "68251e330e5dbe76afcd601f3a4aee11cb5215d10253d5f95b928f9686cd8847"
+metafile = true
+
+[[files]]
+file = "mods/macaws-fences-and-walls.pw.toml"
+hash = "494deaee9599d72411053c7a624a6edee9736965163734f8c04dc43d4211aad6"
+metafile = true
+
+[[files]]
+file = "mods/macaws-furniture.pw.toml"
+hash = "0a141cdae9c73e39dd61cabcc2bb3902bb2d558abe39b83dab46ee7c9a6ea110"
+metafile = true
+
+[[files]]
+file = "mods/macaws-holidays.pw.toml"
+hash = "40a8b61ae352ca40b43721dc39a9aa8defb9548e637598711652fa89cfef3c9e"
+metafile = true
+
+[[files]]
+file = "mods/macaws-lights-and-lamps.pw.toml"
+hash = "26c88cf151590fdbd9d3f8db20498fe66fc784a00d9019870461c60bb6298583"
+metafile = true
+
+[[files]]
+file = "mods/macaws-paths-and-pavings.pw.toml"
+hash = "3ef2a7221294f0040d161bef71a3695779bf58a860f03d3c5d5db415a9765db8"
+metafile = true
+
+[[files]]
+file = "mods/macaws-roofs.pw.toml"
+hash = "a264530c93a44f0760b41bd21f6698e25655a3d47c93eb34019a96aa3c80837b"
+metafile = true
+
+[[files]]
+file = "mods/macaws-stairs.pw.toml"
+hash = "4c2c2f7bff8dda9050a583e11f1c33d97260fa6c1ed8d8717cda0f0306d32ea0"
+metafile = true
+
+[[files]]
+file = "mods/macaws-trapdoors.pw.toml"
+hash = "463e5b47a3c46cadc49bcfe1cebc8b1ad43f73a5d1db7d6950d06f82b3c22c3b"
+metafile = true
+
+[[files]]
+file = "mods/macaws-windows.pw.toml"
+hash = "fe6ba0e62c6791d76b18fec6a44d35b1dc50ad0a7a4aad7e6134ad09306e29a1"
+metafile = true
+
+[[files]]
+file = "mods/mavapi.pw.toml"
+hash = "5efaadd09ae2a5e545ae61e8f542df9ac1a60aa263d547518c9426cd8d70d212"
+metafile = true
+
+[[files]]
+file = "mods/mavm.pw.toml"
+hash = "25d415d998c2f9d22d3717c262ed2c3336928ed689b6866375cc4da93554a932"
+metafile = true
+
+[[files]]
 file = "mods/midnightlib.pw.toml"
 hash = "8ccb54bebc5af2470ee2fdaf0a719efd00548b442f6641ed88f7b031207dc4cd"
+metafile = true
+
+[[files]]
+file = "mods/minecraft-comes-alive-reborn.pw.toml"
+hash = "74d676fb885ce3aeea0a05f8cc490964f83182115c61ee7bdf814d21a4b652b3"
 metafile = true
 
 [[files]]
@@ -541,6 +646,11 @@ metafile = true
 [[files]]
 file = "mods/ryoamiclights.pw.toml"
 hash = "236f2081c7d05b4aedd9a44e57434818332f63091645d7d3b2fd6356de0646aa"
+metafile = true
+
+[[files]]
+file = "mods/saturn.pw.toml"
+hash = "45646ed86d783d82cc2b804466d4aaf06a67e14766928f17134d02558179f3f0"
 metafile = true
 
 [[files]]
