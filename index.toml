@@ -197,9 +197,8 @@ hash = "47da1e8fe94130970ab06004cfb3b828271bd572f000014a046e8bd7497643bd"
 metafile = true
 
 [[files]]
-file = "mods/bewitchment.pw.toml"
-hash = "e918eb82a8b5fde9bf05f4341f89db225fa74df21a21fc1bac407ab0a8c56346"
-metafile = true
+file = "mods/bewitchment-1.20-10-PATCHED.jar"
+hash = "8d526daed7d79612a3afc1b86c0223d0675bcff11e181db5a755e3f1fab970eb"
 
 [[files]]
 file = "mods/blossom-blade.pw.toml"
