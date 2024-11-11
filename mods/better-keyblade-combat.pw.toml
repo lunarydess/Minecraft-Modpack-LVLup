@@ -1,0 +1,13 @@
+name = "Better Keyblade Combat"
+filename = "KingdomKeys_Combos.zip"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/b0cAmmoP/versions/oNNKwgaF/KingdomKeys_Combos.zip"
+hash-format = "sha1"
+hash = "7341481bcce50d44df143775988f7dfabd782318"
+
+[update]
+[update.modrinth]
+mod-id = "b0cAmmoP"
+version = "oNNKwgaF"

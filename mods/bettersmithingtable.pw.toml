@@ -1,0 +1,13 @@
+name = "Better Smithing Table"
+filename = "BetterSmithingTable-1.1.0-Forge-1.20.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/Vt8TI045/versions/3cuX6TCX/BetterSmithingTable-1.1.0-Forge-1.20.jar"
+hash-format = "sha1"
+hash = "7095943b260b4a36361c3c3827d1c59f677bdbad"
+
+[update]
+[update.modrinth]
+mod-id = "Vt8TI045"
+version = "3cuX6TCX"

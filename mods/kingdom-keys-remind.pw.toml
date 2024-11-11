@@ -1,0 +1,13 @@
+name = "Kingdom Keys - Re:Mind"
+filename = "KK-ReMind-1.20.1-0.8.5.2.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/36hh4NPc/versions/q58K5iYR/KK-ReMind-1.20.1-0.8.5.2.1.jar"
+hash-format = "sha1"
+hash = "1a6cea7ad66d62c82bc41d783a5c4491bd735d9c"
+
+[update]
+[update.modrinth]
+mod-id = "36hh4NPc"
+version = "q58K5iYR"

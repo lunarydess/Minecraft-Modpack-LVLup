@@ -1,0 +1,13 @@
+name = "Friends&Foes Delight"
+filename = "friendsfoesdelight-1.0.1-1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/cjT45cjC/versions/YN26g0gL/friendsfoesdelight-1.0.1-1.20.1.jar"
+hash-format = "sha1"
+hash = "c7ed357dfc6d1dc01b9053aa6aad8e08e3da21ee"
+
+[update]
+[update.modrinth]
+mod-id = "cjT45cjC"
+version = "YN26g0gL"
