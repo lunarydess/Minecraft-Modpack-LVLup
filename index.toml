@@ -20,6 +20,11 @@ hash = "64a9d35d95525940611e536b2d16ee73dec0c213832195b2f7f8f925e077d774"
 metafile = true
 
 [[files]]
+file = "mods/architectury-api.pw.toml"
+hash = "fa34a3117af7f8ed553ec563a7c90c1d6462184c7df5b837c831cb482c6ae582"
+metafile = true
+
+[[files]]
 file = "mods/badoptimizations.pw.toml"
 hash = "d5f0e6dec4e5cbd13257be43ae4d1beebc007ba08cc1823913fcc2e911ff0cbf"
 metafile = true
