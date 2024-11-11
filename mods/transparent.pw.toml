@@ -1,0 +1,13 @@
+name = "Transparent"
+filename = "transparent-forge-8.0.1+1.20.1.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/zp4jb9oQ/versions/pCYVczYd/transparent-forge-8.0.1%2B1.20.1.jar"
+hash-format = "sha1"
+hash = "241ee1555c2ab1037d0a68bb29b45305ef36301e"
+
+[update]
+[update.modrinth]
+mod-id = "zp4jb9oQ"
+version = "pCYVczYd"
