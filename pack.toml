@@ -1,0 +1,13 @@
+name = "LVLcraft"
+author = "lunarydess"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "3649ee884c55d3dc8ef73c7e46da6754b9206666476d24f656e57a8846f2d2e5"
+
+[versions]
+minecraft = "1.20.1"
+neoforge = "47.1.106"

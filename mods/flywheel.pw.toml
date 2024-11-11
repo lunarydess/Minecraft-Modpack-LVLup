@@ -1,0 +1,7 @@
+name = "Flywheel"
+filename = "flywheel-forge-1.20.1-0.6.11-13.jar"
+
+[download]
+url = "https://ci.tterrag.com/job/Flywheel/job/Forge/job/1.20/lastSuccessfulBuild/artifact/build/libs/flywheel-forge-1.20.1-0.6.11-13.jar"
+hash-format = "sha256"
+hash = "fd71ef28c2fc2694e661366a254ce1519791a39e7ec660a87a07212173aff178"
