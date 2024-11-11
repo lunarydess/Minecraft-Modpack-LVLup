@@ -387,11 +387,6 @@ hash = "2eb26b157c4159bfeff6a00147afa35284397d558f84b55367d1a41064d7456a"
 metafile = true
 
 [[files]]
-file = "mods/curios.pw.toml"
-hash = "e5c70c97f5c25e8cc14838d78739934ec963cfa70373c018eb9eb96f1685d84c"
-metafile = true
-
-[[files]]
 file = "mods/cut-through.pw.toml"
 hash = "512199afb263274b758378f2117d8f9abac194cdef1fb79d7cb83e95199259d0"
 metafile = true
