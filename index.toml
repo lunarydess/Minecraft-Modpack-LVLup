@@ -98,6 +98,11 @@ hash = "fc8bdb31620fd7ffc6ad254f27376f13a66b9707c002da6d5d85b25344ea63b4"
 metafile = true
 
 [[files]]
+file = "mods/azurelib.pw.toml"
+hash = "db7d09dde7dfce5e511ee22406b3632b93b1ae64bce2d14802f24d4e93ef4825"
+metafile = true
+
+[[files]]
 file = "mods/badoptimizations.pw.toml"
 hash = "d5f0e6dec4e5cbd13257be43ae4d1beebc007ba08cc1823913fcc2e911ff0cbf"
 metafile = true
