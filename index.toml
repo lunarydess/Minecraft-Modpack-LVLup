@@ -38,6 +38,10 @@ file = "mods/SereneSeasons-forge-1.20.1-9.1.0.0-CUSTOM.jar"
 hash = "f582570e21d03d62d7678a532e6899ef84d46426fc64ff8505526069800f5396"
 
 [[files]]
+file = "mods/ThirstWasTaken-1.20.1-1.3.11.jar"
+hash = "e63fef1fb50c28e39f0492c8acbc8d2b0fd863a0194cc44d7dd9f4a68e1b68a0"
+
+[[files]]
 file = "mods/accessories-cc-layer.pw.toml"
 hash = "94b1da7c16790d9e99460fd8da09482741104dd55b2fade31d1ff01245cef494"
 metafile = true
@@ -1318,11 +1322,6 @@ metafile = true
 [[files]]
 file = "mods/the-twilight-forest.pw.toml"
 hash = "d1f859de9867b7433305aef1631aa22a436a4c3924474a21c0a22ab5f2093c04"
-metafile = true
-
-[[files]]
-file = "mods/thirst-was-taken.pw.toml"
-hash = "29f17fa9a88b1a2749c874034cdc6855f03c4e449498fc7cde610e8e039298c7"
 metafile = true
 
 [[files]]
