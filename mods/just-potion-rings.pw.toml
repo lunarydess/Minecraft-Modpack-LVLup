@@ -1,0 +1,13 @@
+name = "Just Potion Rings"
+filename = "justpotionrings-forge-1.20.[0-1]-v1.3.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/6C3LNL9Q/versions/wS8osGqP/justpotionrings-forge-1.20.%5B0-1%5D-v1.3.jar"
+hash-format = "sha1"
+hash = "aae594e8263b3b293fd4f5c0ce8d4dbf1cd61bc1"
+
+[update]
+[update.modrinth]
+mod-id = "6C3LNL9Q"
+version = "wS8osGqP"

@@ -1,0 +1,13 @@
+name = "Additional Placements"
+filename = "AdditionalPlacements-1.20.1-2.0.8.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/f5TwOKkb/versions/b7teTovG/AdditionalPlacements-1.20.1-2.0.8.jar"
+hash-format = "sha1"
+hash = "f3b2461c6893348376cebbc2a38794a35623c5cf"
+
+[update]
+[update.modrinth]
+mod-id = "f5TwOKkb"
+version = "b7teTovG"

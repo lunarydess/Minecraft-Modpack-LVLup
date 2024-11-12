@@ -1,0 +1,13 @@
+name = "Translucency Fix"
+filename = "translucencyfix-2.2.0-forge.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/xp45cyDI/versions/fJANOR0C/translucencyfix-2.2.0-forge.jar"
+hash-format = "sha1"
+hash = "29f9ca62eddfdc290af2e3dd968dbb453bbece0f"
+
+[update]
+[update.modrinth]
+mod-id = "xp45cyDI"
+version = "fJANOR0C"

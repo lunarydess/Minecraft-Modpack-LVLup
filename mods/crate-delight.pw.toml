@@ -1,0 +1,13 @@
+name = "Crate Delight"
+filename = "cratedelight-24.11.06-1.20-forge.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/9rlXSyLg/versions/DOkqGFnK/cratedelight-24.11.06-1.20-forge.jar"
+hash-format = "sha1"
+hash = "c1be02dd3d3d9b7c379380bd76dac8484890b234"
+
+[update]
+[update.modrinth]
+mod-id = "9rlXSyLg"
+version = "DOkqGFnK"

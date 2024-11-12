@@ -1,0 +1,13 @@
+name = "Stronger Snowballs"
+filename = "StrongerSnowballs-Forge-1.20.1-13.0.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/8tSjJyMS/versions/wWQ13qWs/StrongerSnowballs-Forge-1.20.1-13.0.2.jar"
+hash-format = "sha1"
+hash = "4c5340e497243d40727e6ca0d150e5bee36e65a0"
+
+[update]
+[update.modrinth]
+mod-id = "8tSjJyMS"
+version = "wWQ13qWs"

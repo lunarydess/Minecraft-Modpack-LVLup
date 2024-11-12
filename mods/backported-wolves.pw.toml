@@ -1,0 +1,13 @@
+name = "Backported Wolves"
+filename = "[Forge]backported_wolves_forge-1.0.3-1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/yasXoQpR/versions/ZIoZA2FC/%5BForge%5Dbackported_wolves_forge-1.0.3-1.20.1.jar"
+hash-format = "sha1"
+hash = "75259050a3cbe3417cd05d1092fa53cbc23113af"
+
+[update]
+[update.modrinth]
+mod-id = "yasXoQpR"
+version = "ZIoZA2FC"
