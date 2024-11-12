@@ -1,0 +1,13 @@
+name = "VanillaTweaks"
+filename = "VanillaTweaks-forge-1.20.1-1.5.71.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/5DJpA9qi/versions/Yt6a9XHn/VanillaTweaks-forge-1.20.1-1.5.71.jar"
+hash-format = "sha1"
+hash = "24ebac8634c8e621519787b94dd671eb72e19d60"
+
+[update]
+[update.modrinth]
+mod-id = "5DJpA9qi"
+version = "Yt6a9XHn"
