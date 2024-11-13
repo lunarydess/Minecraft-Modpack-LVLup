@@ -1,0 +1,13 @@
+name = "Bow Infinity Fix"
+filename = "bowinfinityfix-1.20.x-forge-2.6.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/BFENfScW/versions/DrWutox9/bowinfinityfix-1.20.x-forge-2.6.0.jar"
+hash-format = "sha1"
+hash = "aecf2b133ef23251d2640795f719fbc7dec10b44"
+
+[update]
+[update.modrinth]
+mod-id = "BFENfScW"
+version = "DrWutox9"

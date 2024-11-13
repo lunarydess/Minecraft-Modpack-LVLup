@@ -117,6 +117,11 @@ hash = "a8ce03e6f782db68a453fa0d7e8d8ef3d30d4d184fa0ce030843709ea43d573f"
 metafile = true
 
 [[files]]
+file = "mods/anvil-repairing.pw.toml"
+hash = "bb9e49b11d06af576c8e8667d8f1e9dadd6e749e47919d9eafce77a2fe23eb7d"
+metafile = true
+
+[[files]]
 file = "mods/aquamirae.pw.toml"
 hash = "eccbbe63cad9d000fee620d560b07d5484432d042695b1aab63f916faae6ae53"
 metafile = true
@@ -217,6 +222,16 @@ hash = "be8e217053e3e0bc0179a62beaa1f8e29e22b1cdc2cb0d56bd9836ce5e6dea3b"
 metafile = true
 
 [[files]]
+file = "mods/baubley-heart-canisters.pw.toml"
+hash = "4abd0d53e87555ba75e23c4b0c3dac66b35c961eb8f87ebfc3358547acccef9e"
+metafile = true
+
+[[files]]
+file = "mods/bbrb.pw.toml"
+hash = "b6ccfc1e4a91e17dee77e00da06d6d3d86ae30f9c5b8e139c3003983a942a89e"
+metafile = true
+
+[[files]]
 file = "mods/bcbc.pw.toml"
 hash = "b3f98ecce9ba4f90f371ef0c0ebbeedf81932b5c5832ad1e6fe9104b5d9a4287"
 metafile = true
@@ -234,6 +249,11 @@ metafile = true
 [[files]]
 file = "mods/better-keyblade-combat.pw.toml"
 hash = "d60098deb96fe68be62e2696dfacc7851625e9723318265b6212cde5f7118524"
+metafile = true
+
+[[files]]
+file = "mods/better-modlist.pw.toml"
+hash = "39bc53119fde676ef3ed97debabe5d9d26ddcc269acf8c1cfb3014b1d2986935"
 metafile = true
 
 [[files]]
@@ -268,6 +288,11 @@ metafile = true
 [[files]]
 file = "mods/bewitchment-1.20-10-PATCHED.jar"
 hash = "8d526daed7d79612a3afc1b86c0223d0675bcff11e181db5a755e3f1fab970eb"
+
+[[files]]
+file = "mods/bft.pw.toml"
+hash = "50786a65a71865a618b68b74c759eea6a41b1c025c896b0b96ee18dcfc63777b"
+metafile = true
 
 [[files]]
 file = "mods/blood-magic.pw.toml"
@@ -315,6 +340,16 @@ hash = "15f70ccb7c7b0ff27ec791788d24de00fc6f6715311644b0fe374f006c9f230e"
 metafile = true
 
 [[files]]
+file = "mods/bow-infinity-fix.pw.toml"
+hash = "7f7247b8175c1bb8e5344338ba0c9276ea1f3b1e5b36c8ea72d0f5a5a9967892"
+metafile = true
+
+[[files]]
+file = "mods/brute-force-rendering-culling.pw.toml"
+hash = "33bd34acde4060914d434a58abbe76c32a4a18c74ad805e2dc3cefe94d52fbaf"
+metafile = true
+
+[[files]]
 file = "mods/bushier-flowers.pw.toml"
 hash = "ffec0eb07da96e0cdb4c751814676510c9d495e82d290cd24b0f272f5994c62c"
 metafile = true
@@ -337,11 +372,6 @@ metafile = true
 [[files]]
 file = "mods/cat_jam.pw.toml"
 hash = "3267b1038c0ceb8d2474934caa263d568319842044618f01adf6411367cd8a8c"
-metafile = true
-
-[[files]]
-file = "mods/catalogue.pw.toml"
-hash = "0722da0022c3d9dcf6be08f561828222f61911b62aed7d8c75f71c126e12e1b8"
 metafile = true
 
 [[files]]
@@ -405,6 +435,11 @@ hash = "650b5c9eaa1ce92071ca0b2f9833d93135211c49e55ad22167c2f2d059d90c1c"
 metafile = true
 
 [[files]]
+file = "mods/condensed-creative.pw.toml"
+hash = "6da92fc5b3836b450442db7c4f293e120b87a84e23ba8fa8ab5778f480671c04"
+metafile = true
+
+[[files]]
 file = "mods/connector-extras.pw.toml"
 hash = "ca80a80a9a068c01ad3b2d8d484a943897b6e87325ca70e5dea2d59c2eba9160"
 metafile = true
@@ -465,6 +500,11 @@ hash = "b916a712a0697a6e62b2d2982f9ce1eeee081ab780465653e8c07d274a4b4826"
 metafile = true
 
 [[files]]
+file = "mods/createaddoncompatibility.pw.toml"
+hash = "8503f6eaba0d28c7266549a8c9da184dd7ff776e2054026ca7307ff466357c27"
+metafile = true
+
+[[files]]
 file = "mods/creativecore.pw.toml"
 hash = "02d48efda275a879a8af759d78c05133cadeb336bbeb26aea6b2fc40ad64aada"
 metafile = true
@@ -490,13 +530,28 @@ hash = "1dd4a5385d726491647f47cd42760b0a322a8d3d82728bbbe3a45efde9b4e161"
 metafile = true
 
 [[files]]
-file = "mods/cupboard.pw.toml"
-hash = "2eb26b157c4159bfeff6a00147afa35284397d558f84b55367d1a41064d7456a"
+file = "mods/cursorcentered-fix.pw.toml"
+hash = "5d083e2c9a28c5ce4c65518d3dfa277cbf668c07325c9313688b613a7180a31a"
+metafile = true
+
+[[files]]
+file = "mods/custom-fps-display.pw.toml"
+hash = "8303139c5f029eef81d2d2d8ec1b2e611f9de0cbd197d19da7a08ad2982bf839"
 metafile = true
 
 [[files]]
 file = "mods/cut-through.pw.toml"
 hash = "512199afb263274b758378f2117d8f9abac194cdef1fb79d7cb83e95199259d0"
+metafile = true
+
+[[files]]
+file = "mods/cyanide.pw.toml"
+hash = "e35451a4b5f2231bb47d31323fc968db104985e980ceedc19edf360b6400c71e"
+metafile = true
+
+[[files]]
+file = "mods/damagenumbers.pw.toml"
+hash = "3d5ee669290446f8adcae3efcd74b9ac56c039b4fe53ae86b27ee2f0466f1464"
 metafile = true
 
 [[files]]
@@ -527,6 +582,11 @@ metafile = true
 [[files]]
 file = "mods/dimensional-threads.pw.toml"
 hash = "b8c4528cc3185001451be70517d012541d300f9b2ad584a9f18a3070207079f6"
+metafile = true
+
+[[files]]
+file = "mods/dimensionaldoors.pw.toml"
+hash = "b355da3d29cd2c8b22950a56a82a28e12e8503fe0a5557930cfaa39d2e5b6941"
 metafile = true
 
 [[files]]
@@ -672,6 +732,11 @@ metafile = true
 [[files]]
 file = "mods/fallingleavesforge.pw.toml"
 hash = "25fa919ea97a60c39737bdd490e3a8f78361f42416453d83bd9a291908b821b2"
+metafile = true
+
+[[files]]
+file = "mods/fancy-dyes.pw.toml"
+hash = "56b0c1a9eeb891d749cd08a55c60fc16586b251ce043249fac98f5886802d10c"
 metafile = true
 
 [[files]]
@@ -855,6 +920,11 @@ hash = "82ffc26ad624cdd846cbbeb99ed40ef44229ec7006a7ae7e8caa8df6409c20db"
 metafile = true
 
 [[files]]
+file = "mods/krypton.pw.toml"
+hash = "71ef7cc16632c0039fe194183b5885968c6d740aaa67a58000653ae0cb40b882"
+metafile = true
+
+[[files]]
 file = "mods/leave-my-bars-alone.pw.toml"
 hash = "f3d5d2453b2bb4965d9531be60ea4488d0da57592c988637d0247c5cead988ea"
 metafile = true
@@ -947,6 +1017,11 @@ metafile = true
 [[files]]
 file = "mods/mavm.pw.toml"
 hash = "25d415d998c2f9d22d3717c262ed2c3336928ed689b6866375cc4da93554a932"
+metafile = true
+
+[[files]]
+file = "mods/mcr_blahaj.pw.toml"
+hash = "aa112539228ce0d4e6b980c916744ee70bad9adb47e8bdb2ad412d82c0b48272"
 metafile = true
 
 [[files]]
@@ -1100,6 +1175,11 @@ hash = "f6883dbacae2ced2bd6218b2ab1d7a438edbfe772cab9396c7fe2fecc43234d2"
 metafile = true
 
 [[files]]
+file = "mods/out-of-sight.pw.toml"
+hash = "64d01203b2f27e3f8c828203b3ccda5902650ba3b96833f423b9de1c6f52fe6d"
+metafile = true
+
+[[files]]
 file = "mods/paper-doll.pw.toml"
 hash = "d30db6b7be4f6db1730278c9390d796e36b4a522bb7fc18f26664d49d0eeaa8d"
 metafile = true
@@ -1235,6 +1315,16 @@ hash = "5491a7006d550439d66cd3687172397b9003485680cb68d705fdb77c5944db01"
 metafile = true
 
 [[files]]
+file = "mods/shimmer!.pw.toml"
+hash = "014ffaf7c43efb87fec52f80ccee6469208c98e841faffad5c0966f5778c91e4"
+metafile = true
+
+[[files]]
+file = "mods/shulker+.pw.toml"
+hash = "2c0a5d3435a0e0e03842e48c2401a25b15f559cbceff28b5553d879928bd5d32"
+metafile = true
+
+[[files]]
 file = "mods/simple-voice-chat.pw.toml"
 hash = "4d261b6713df4695a8bc08a1eeba9d700873b01d74312f4b26bef8dc1e37ebdc"
 metafile = true
@@ -1252,6 +1342,16 @@ metafile = true
 [[files]]
 file = "mods/smooth-swapping-forge-updated.pw.toml"
 hash = "0d85c3d768bb099654fdc7229b9b20dda75f484b2bf683703b7b1b30291cdaa8"
+metafile = true
+
+[[files]]
+file = "mods/sophisticated-backpacks.pw.toml"
+hash = "1259d9599e9f7fa5437d216a09e453cc6bacd61844ca10cd2b613e0f53478db5"
+metafile = true
+
+[[files]]
+file = "mods/sophisticated-core.pw.toml"
+hash = "a9b5828adf9847e44eb744a60ed5b61a472e0269015cca8d1618406e7d8e3bd9"
 metafile = true
 
 [[files]]
@@ -1320,6 +1420,11 @@ hash = "941eac23ad7aa796926497f66d51fcf398803d972eeba8343c632feb5b03b6e2"
 metafile = true
 
 [[files]]
+file = "mods/the-splash-milk.pw.toml"
+hash = "51c1fe8a95808537c34b3f09b1386a81e3b4698a42bd78136a7f3a80de8a921f"
+metafile = true
+
+[[files]]
 file = "mods/the-twilight-forest.pw.toml"
 hash = "d1f859de9867b7433305aef1631aa22a436a4c3924474a21c0a22ab5f2093c04"
 metafile = true
@@ -1365,8 +1470,8 @@ hash = "bc249e4bf77eef00e13ba01233796c4e3b453779f255a2d6cfa3f7bd1e1b1f28"
 metafile = true
 
 [[files]]
-file = "mods/travelersbackpack.pw.toml"
-hash = "93d0a11577ed2ca27e3d0ece78e197b2fbec62ddbe5a5a8cfb0d9bf2b82a708c"
+file = "mods/travellers-boots.pw.toml"
+hash = "6d85da2174f22e55c3a34e84110ef409887f6d3b4ac7437638d86f09f863ae8c"
 metafile = true
 
 [[files]]
@@ -1392,6 +1497,11 @@ metafile = true
 [[files]]
 file = "mods/wavey-capes.pw.toml"
 hash = "55ba5c656c56e3d5759098a5481b74b67740f5e3c637bad5cb12e2f6f513cebc"
+metafile = true
+
+[[files]]
+file = "mods/waystones-teleport-pets.pw.toml"
+hash = "b73bb582ceb41035bca727eb0fd7c40c3605a59a19f1b69c076d1c1d4f75e147"
 metafile = true
 
 [[files]]

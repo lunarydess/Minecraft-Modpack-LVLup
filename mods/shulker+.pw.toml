@@ -1,0 +1,13 @@
+name = "Shulker+"
+filename = "shulkerplus-mc1.20.1-v1.0.7-forge.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/eU7ZC3fy/versions/G3X75aUx/shulkerplus-mc1.20.1-v1.0.7-forge.jar"
+hash-format = "sha1"
+hash = "ebe3a96a64e6b6008180e27f008ffc80a03b2477"
+
+[update]
+[update.modrinth]
+mod-id = "eU7ZC3fy"
+version = "G3X75aUx"

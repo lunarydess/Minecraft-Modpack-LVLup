@@ -1,0 +1,13 @@
+name = "Custom FPS Display"
+filename = "[1.20.x]Custom FPS Display 2.0.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/OSStUM2E/versions/zeQknbZb/%5B1.20.x%5DCustom%20FPS%20Display%202.0.jar"
+hash-format = "sha1"
+hash = "df34d9adeeb775784ef4aad6372de582a8fa7367"
+
+[update]
+[update.modrinth]
+mod-id = "OSStUM2E"
+version = "zeQknbZb"
