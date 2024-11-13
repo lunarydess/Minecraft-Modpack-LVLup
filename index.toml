@@ -310,6 +310,11 @@ hash = "8d9d5455b55aaa26c1e5c235cb3b865423e15ba44d5467ebfd183c126545d487"
 metafile = true
 
 [[files]]
+file = "mods/bocchud.pw.toml"
+hash = "81eb8658893b22a41099da514fa0c19651320bf538a8d74417ae252ab507d640"
+metafile = true
+
+[[files]]
 file = "mods/bookshelf-lib.pw.toml"
 hash = "40bab89c8030327eba75a6fe4350d6ac883d4b168a8171d4c0ca3a416efbd318"
 metafile = true
@@ -1015,6 +1020,11 @@ hash = "fe6ba0e62c6791d76b18fec6a44d35b1dc50ad0a7a4aad7e6134ad09306e29a1"
 metafile = true
 
 [[files]]
+file = "mods/mafglib.pw.toml"
+hash = "28e1a9beef13c68d9c6cc890649d5ce6c1e54c50026ade79fbb09dff57e55578"
+metafile = true
+
+[[files]]
 file = "mods/mavapi.pw.toml"
 hash = "5efaadd09ae2a5e545ae61e8f542df9ac1a60aa263d547518c9426cd8d70d212"
 metafile = true
@@ -1027,6 +1037,11 @@ metafile = true
 [[files]]
 file = "mods/midnightlib.pw.toml"
 hash = "8ccb54bebc5af2470ee2fdaf0a719efd00548b442f6641ed88f7b031207dc4cd"
+metafile = true
+
+[[files]]
+file = "mods/minihud-extra.pw.toml"
+hash = "0e3dec118beff74668f604fed298f0883e439e4fe6489980894a6fc4cc7c0bc1"
 metafile = true
 
 [[files]]
