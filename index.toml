@@ -295,6 +295,11 @@ hash = "50786a65a71865a618b68b74c759eea6a41b1c025c896b0b96ee18dcfc63777b"
 metafile = true
 
 [[files]]
+file = "mods/blahaj-restitched.pw.toml"
+hash = "cd314b5ccfdd436479fe7a40e4159948eb7f60a6725bbc9ae65d285efa4df15d"
+metafile = true
+
+[[files]]
 file = "mods/blood-magic.pw.toml"
 hash = "4c6233f697779c1eb83616e96216be90cd7c64054f2310185fdcd2158994f38c"
 metafile = true
@@ -1017,11 +1022,6 @@ metafile = true
 [[files]]
 file = "mods/mavm.pw.toml"
 hash = "25d415d998c2f9d22d3717c262ed2c3336928ed689b6866375cc4da93554a932"
-metafile = true
-
-[[files]]
-file = "mods/mcr_blahaj.pw.toml"
-hash = "aa112539228ce0d4e6b980c916744ee70bad9adb47e8bdb2ad412d82c0b48272"
 metafile = true
 
 [[files]]

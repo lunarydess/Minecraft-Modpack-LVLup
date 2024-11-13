@@ -1,0 +1,13 @@
+name = "Blahaj Restitched"
+filename = "blahaj-forge-1.20.1-0.1.8.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/V7VAUAtv/versions/HeUL0EZ2/blahaj-forge-1.20.1-0.1.8.jar"
+hash-format = "sha1"
+hash = "6c863b00ccbf5ef93e7a1ae7cc5c6546970707a0"
+
+[update]
+[update.modrinth]
+mod-id = "V7VAUAtv"
+version = "HeUL0EZ2"
