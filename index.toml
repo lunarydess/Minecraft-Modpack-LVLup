@@ -295,9 +295,8 @@ hash = "50786a65a71865a618b68b74c759eea6a41b1c025c896b0b96ee18dcfc63777b"
 metafile = true
 
 [[files]]
-file = "mods/blahaj-restitched.pw.toml"
-hash = "cd314b5ccfdd436479fe7a40e4159948eb7f60a6725bbc9ae65d285efa4df15d"
-metafile = true
+file = "mods/blahaj-forge+1.20.1-0.6.2.jar"
+hash = "541b4a794afc52b90aa47e55e0114a2a54d8117d788eed05adb10e67e0ecebe0"
 
 [[files]]
 file = "mods/blood-magic.pw.toml"
@@ -352,11 +351,6 @@ metafile = true
 [[files]]
 file = "mods/bow-infinity-fix.pw.toml"
 hash = "7f7247b8175c1bb8e5344338ba0c9276ea1f3b1e5b36c8ea72d0f5a5a9967892"
-metafile = true
-
-[[files]]
-file = "mods/brute-force-rendering-culling.pw.toml"
-hash = "33bd34acde4060914d434a58abbe76c32a4a18c74ad805e2dc3cefe94d52fbaf"
 metafile = true
 
 [[files]]
@@ -542,11 +536,6 @@ metafile = true
 [[files]]
 file = "mods/cursorcentered-fix.pw.toml"
 hash = "5d083e2c9a28c5ce4c65518d3dfa277cbf668c07325c9313688b613a7180a31a"
-metafile = true
-
-[[files]]
-file = "mods/custom-fps-display.pw.toml"
-hash = "8303139c5f029eef81d2d2d8ec1b2e611f9de0cbd197d19da7a08ad2982bf839"
 metafile = true
 
 [[files]]
