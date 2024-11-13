@@ -810,11 +810,6 @@ hash = "bf404059848bec2c6b0c3a915668ec04d46000a5d8520debb62fa1fc5d2a6c99"
 metafile = true
 
 [[files]]
-file = "mods/inventory-tabs.pw.toml"
-hash = "c36f8ee375edf3c754631d828ab855f83265df8bb84a134585594664c653a6fe"
-metafile = true
-
-[[files]]
 file = "mods/iris-flw-compat.pw.toml"
 hash = "e71694b7c6640af4b9020bb10c634155ffc7c5f5bd520990b65d954d851e3922"
 metafile = true
@@ -987,6 +982,11 @@ metafile = true
 [[files]]
 file = "mods/modonomicon.pw.toml"
 hash = "0f7fa1103692511616e67293e7bf21399f9ed482f825b056fbcb5b7366836342"
+metafile = true
+
+[[files]]
+file = "mods/mods-optimizer.pw.toml"
+hash = "825bae85144a7a7c3ff096bd68f66d88db3fe2320aff8021a79a3068e5c78ccf"
 metafile = true
 
 [[files]]
@@ -1387,11 +1387,6 @@ metafile = true
 [[files]]
 file = "mods/vertical-slabs-compat.pw.toml"
 hash = "3e688afacb105f8710eaa7d45f0e2472acb6364c37f9fb540eb0cc7a32068743"
-metafile = true
-
-[[files]]
-file = "mods/vmp-forge.pw.toml"
-hash = "18e0f9f0df336b60d2e77fa72c57b1066356cfecc06a2cd1968ee40ceef085a3"
 metafile = true
 
 [[files]]
