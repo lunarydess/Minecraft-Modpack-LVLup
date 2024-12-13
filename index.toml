@@ -1,8 +1,20 @@
 hash-format = "sha256"
 
 [[files]]
+file = ".previews/minecraft-create.png"
+hash = "7fbd8f7c869e273f59b7ef600a639c98cc19c7236a855792c1c62f424c14fd14"
+
+[[files]]
+file = ".previews/multimc-import.png"
+hash = "b2391a62120e29b6ae4ffb4c7692964c731b5300b070018787703dd9a696013b"
+
+[[files]]
 file = "LICENSE"
 hash = "6b0382b16279f26ff69014300541967a356a666eb0b91b422f6862f6b7dad17e"
+
+[[files]]
+file = "README.md"
+hash = "80570f1212ea10513e199c05374453d7a62efbd8ddae5e7334ddeea7609ab605"
 
 [[files]]
 file = "config/ModernUI/bootstrap.properties"
@@ -242,11 +254,6 @@ hash = "b6ccfc1e4a91e17dee77e00da06d6d3d86ae30f9c5b8e139c3003983a942a89e"
 metafile = true
 
 [[files]]
-file = "mods/bcbc.pw.toml"
-hash = "b3f98ecce9ba4f90f371ef0c0ebbeedf81932b5c5832ad1e6fe9104b5d9a4287"
-metafile = true
-
-[[files]]
 file = "mods/better-advancements.pw.toml"
 hash = "4dfa5c2e25d36ea1c00ecfabc88cb2c95910badccb1cf13dfcc79d1dc189ff86"
 metafile = true
@@ -280,15 +287,6 @@ metafile = true
 file = "mods/better-tridents.pw.toml"
 hash = "1eba2958ca157bb11a8a3c99a83ecb256ebd78f2757fc54822d7e6b5f73080c6"
 metafile = true
-
-[[files]]
-file = "mods/bettercombat-extension.pw.toml"
-hash = "1ddf15c2f6433043e4a8e6b454afb94744c98f0f7b2ef7ae3517f6248a99fedc"
-metafile = true
-
-[[files]]
-file = "mods/bettercombat-forge-1.8.6+1.20.1-CUSTOM.jar"
-hash = "ec043176a9c14d77d424f6375abfc33ecd2988687d399be27ccd1e987c138cc5"
 
 [[files]]
 file = "mods/bettersmithingtable.pw.toml"
@@ -576,21 +574,6 @@ metafile = true
 [[files]]
 file = "mods/dark-waters.pw.toml"
 hash = "55b6b169110681df812ecec71663f41ade20127220b83d0ec13e74a1ab3fbca5"
-metafile = true
-
-[[files]]
-file = "mods/diagonal-fences.pw.toml"
-hash = "3f75df9bb94b819cca92f4318b80e0d50f46e1604d50488a59dc29864f89dbea"
-metafile = true
-
-[[files]]
-file = "mods/diagonal-walls.pw.toml"
-hash = "2a639307663c03f2795081e91f8ba8935e07989def80a1ae8f70dd11c86f49f4"
-metafile = true
-
-[[files]]
-file = "mods/diagonal-windows.pw.toml"
-hash = "a96c6f3372e8a6b8681ab1e61ab9948a6ca77cedb9a0e9c0c0760c81cb1a1d79"
 metafile = true
 
 [[files]]
@@ -1351,11 +1334,6 @@ metafile = true
 [[files]]
 file = "mods/shield-expansion.pw.toml"
 hash = "da86dc60cd7094e39365c9430e94cb1131ca8c46075c4fc0d324ad28e7980fb7"
-metafile = true
-
-[[files]]
-file = "mods/shield-overhaul.pw.toml"
-hash = "5491a7006d550439d66cd3687172397b9003485680cb68d705fdb77c5944db01"
 metafile = true
 
 [[files]]
