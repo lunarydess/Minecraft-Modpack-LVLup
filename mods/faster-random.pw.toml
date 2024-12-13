@@ -1,13 +1,13 @@
 name = "Faster Random"
-filename = "faster_random_forge-3.0.3.jar"
+filename = "fasterrandom-5.1.0.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/RfFxanNh/versions/Gb15BtGb/faster_random_forge-3.0.3.jar"
+url = "https://cdn.modrinth.com/data/RfFxanNh/versions/BbFqiKvi/fasterrandom-5.1.0.jar"
 hash-format = "sha512"
-hash = "8ba21d700526c2b53e55a686b626b023df436824d0b6a3e8eeabc03dd8af41daad12fd67a04abc641ef7c65c3bc08b49a472b7a99f31e310ddb221db5d950ba0"
+hash = "af2d0825ec4e3521fd82b0a5fd5a3f04daf98e09b138d099407861c03a4e17546900befd791a7abe7cbe109c3045dee0646d02f1703b8e68bc37903d21c20acd"
 
 [update]
 [update.modrinth]
 mod-id = "RfFxanNh"
-version = "Gb15BtGb"
+version = "BbFqiKvi"

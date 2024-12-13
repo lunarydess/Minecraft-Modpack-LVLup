@@ -115,7 +115,7 @@ metafile = true
 
 [[files]]
 file = "mods/almost-unified.pw.toml"
-hash = "3d8e430c9a57371e4167f0deef00fa000d545a5c644cf09f6e3b46b6d21e6834"
+hash = "f91c593be465fb2a8681597503fc75f9a0b876320e9378f95261e2fd300fc559"
 metafile = true
 
 [[files]]
@@ -753,7 +753,7 @@ metafile = true
 
 [[files]]
 file = "mods/faster-random.pw.toml"
-hash = "9fc93a4e5f0c14cd01c2171ab9b74defb97d5d79498b644bdc74414e744c3198"
+hash = "605fe60f2ada4333e88ec2fa66cb57d0635292d83eee8d1ad40f2485d72ef013"
 metafile = true
 
 [[files]]
@@ -1529,11 +1529,6 @@ metafile = true
 [[files]]
 file = "mods/vertical-slabs-compat.pw.toml"
 hash = "3e688afacb105f8710eaa7d45f0e2472acb6364c37f9fb540eb0cc7a32068743"
-metafile = true
-
-[[files]]
-file = "mods/vmp-forge.pw.toml"
-hash = "7c8f6815034c4c0b79ba28af01d8917bbb67debbe95517634b1f8b96dc524b16"
 metafile = true
 
 [[files]]
