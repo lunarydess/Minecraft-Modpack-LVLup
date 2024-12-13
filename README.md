@@ -28,8 +28,8 @@ Optimizations can be made with [Pull requests](https://github.com/lunarydess/Min
 
 ## 2. Installation
 
-First of all ensure you have a JDK above 17 installed.  
-I personally recommend using Java 23.  
+First of all ensure you have a JDK equally or above 17 installed.  
+I personally recommend using Java 21 because versions above break mods compiled in Java 17.  
 
 There are different approaches of how you can install me.  
 Using a [MultiMC](https://multimc.org/) based launcher like [PrismLauncher](https://prismlauncher.org/) is the easiest way.  
