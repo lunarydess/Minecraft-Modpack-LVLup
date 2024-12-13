@@ -87,6 +87,11 @@ hash = "af63989369aa5b9a317530ef7bb0be7a32bfd2e681c502b19c8182c5a03a83b2"
 metafile = true
 
 [[files]]
+file = "mods/akashic-tome.pw.toml"
+hash = "9d1b15ffa15606c346ad2ed32c349fceac9863ae13b433c2aee7d026c87d4339"
+metafile = true
+
+[[files]]
 file = "mods/allthetrims.pw.toml"
 hash = "9c5aeffca7b7e9ee378daea0e1a8ccbb0089e0e88a9cee9a93139003c5d0aa1f"
 metafile = true
@@ -98,7 +103,7 @@ metafile = true
 
 [[files]]
 file = "mods/almost-unified.pw.toml"
-hash = "6694b75c65ee2ba26b245c308305af529f5d4b5e3e3f7e9e37d48365707a7f32"
+hash = "3d8e430c9a57371e4167f0deef00fa000d545a5c644cf09f6e3b46b6d21e6834"
 metafile = true
 
 [[files]]
@@ -179,6 +184,11 @@ metafile = true
 [[files]]
 file = "mods/arsdelight.pw.toml"
 hash = "b2b71d7597d97b59bbac03bc5dcc97ffbb76e31bdef6992cad764f19201bc352"
+metafile = true
+
+[[files]]
+file = "mods/ascended-quark.pw.toml"
+hash = "c064553cb5e8bcecc33b6528917f12b7d7c82142dbfd1883d882903694cc0409"
 metafile = true
 
 [[files]]
@@ -454,6 +464,11 @@ hash = "a71da6b2e8a7654cdc2936e0ac684fbcbed513eb07b32f68f39497c27fe0de1d"
 metafile = true
 
 [[files]]
+file = "mods/continuity.pw.toml"
+hash = "8cea6a7ec6b151f92a3a62261530bb1aefe173ad19840c0319aa10e0d8ab2386"
+metafile = true
+
+[[files]]
 file = "mods/controlling.pw.toml"
 hash = "2a50d21837bba88e3c9490c6bb8e0a9b44b052645d5c1481b48a060439c20a3c"
 metafile = true
@@ -596,6 +611,11 @@ metafile = true
 [[files]]
 file = "mods/do-a-barrel-roll.pw.toml"
 hash = "90812fce7d2261e04c3d75da07719531ba1257cf1c502908d12126e048d4393f"
+metafile = true
+
+[[files]]
+file = "mods/draggable-lists.pw.toml"
+hash = "bfe939f563e561df6410a82e9f36ec3793634e470c9b729088072ff8824018ac"
 metafile = true
 
 [[files]]
@@ -749,6 +769,11 @@ hash = "e9d96d96f2118d98ca2f58d83447af2d3e0055bd8d354503fea5741048502476"
 metafile = true
 
 [[files]]
+file = "mods/faster-random.pw.toml"
+hash = "9fc93a4e5f0c14cd01c2171ab9b74defb97d5d79498b644bdc74414e744c3198"
+metafile = true
+
+[[files]]
 file = "mods/ferrite-core.pw.toml"
 hash = "4a73f04a8986129d79ea4f283a0a33ce51af17079b6efa23596af5bc685e1c1e"
 metafile = true
@@ -806,6 +831,11 @@ metafile = true
 [[files]]
 file = "mods/geckolib.pw.toml"
 hash = "842114b0822d9c2b8b3f474afa55bb973687e8c779aa1cf83548d6ed49b348cd"
+metafile = true
+
+[[files]]
+file = "mods/get-it-together-drops.pw.toml"
+hash = "1f72f53e155c1b3b927ed3ed5c5747447e7713202a96c0d8255f98fe1d0ec94d"
 metafile = true
 
 [[files]]
@@ -1154,6 +1184,11 @@ hash = "1c4971b54ae5774ba1af7e871371b49f16c6fc6c31a44e6bc096370e6b9f3e17"
 metafile = true
 
 [[files]]
+file = "mods/observable.pw.toml"
+hash = "6a94342cf499f76ae6d809e718ba533376055adfafaf45d0eaccb25ea18e2a9d"
+metafile = true
+
+[[files]]
 file = "mods/obsidianui.pw.toml"
 hash = "20ae985a3d4a13c4fee0abbf2e37b152750d606ffd9aeb3d94b823d47c360fe0"
 metafile = true
@@ -1311,6 +1346,11 @@ metafile = true
 [[files]]
 file = "mods/servercore.pw.toml"
 hash = "19fa7bbbebc37d8db487a63d79e31ad23c70a70b2c18253301cafe36f506d512"
+metafile = true
+
+[[files]]
+file = "mods/shield-expansion.pw.toml"
+hash = "da86dc60cd7094e39365c9430e94cb1131ca8c46075c4fc0d324ad28e7980fb7"
 metafile = true
 
 [[files]]
@@ -1479,6 +1519,21 @@ hash = "6d85da2174f22e55c3a34e84110ef409887f6d3b4ac7437638d86f09f863ae8c"
 metafile = true
 
 [[files]]
+file = "mods/twilight-aether.pw.toml"
+hash = "9aea9e8084e71b6751cdc9798244aa056a0271bcd10793cedee1fddc32b90d26"
+metafile = true
+
+[[files]]
+file = "mods/twilight-delight.pw.toml"
+hash = "1ed93fac8d211a81a371ce1ad4bbba2304cc8fc2154ffa72b8c8c11c0d8193b1"
+metafile = true
+
+[[files]]
+file = "mods/twilight-forest-the-lost-blocks.pw.toml"
+hash = "265e8fc585e480c00f21c9d4436a6e67ef542798d773a3e843626b803df60f86"
+metafile = true
+
+[[files]]
 file = "mods/vanilla-refresh.pw.toml"
 hash = "65c6a19fc252bbdba213abe2fa182ec1859fc6072d7ae26b564cbe7fac836852"
 metafile = true
@@ -1496,6 +1551,11 @@ metafile = true
 [[files]]
 file = "mods/vertical-slabs-compat.pw.toml"
 hash = "3e688afacb105f8710eaa7d45f0e2472acb6364c37f9fb540eb0cc7a32068743"
+metafile = true
+
+[[files]]
+file = "mods/vmp-forge.pw.toml"
+hash = "7c8f6815034c4c0b79ba28af01d8917bbb67debbe95517634b1f8b96dc524b16"
 metafile = true
 
 [[files]]
